@@ -12,3 +12,8 @@ iframe{
   align-self: center;
   justify-self: center;
 }
+
+.video-container{
+  display: flex;
+  align-items: center;
+}
