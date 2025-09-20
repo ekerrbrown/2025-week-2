@@ -9,4 +9,6 @@
 iframe{
   width: 80%;
   height: auto;
+  align-self: center;
+  justify-self: center;
 }
