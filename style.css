@@ -6,12 +6,6 @@
   align-self: center;
   justify-self: center;
 }
-iframe{
-  max-width: 80%;
-  height: auto;
-  align-self: center;
-  justify-self: center;
-}
 
 .video-container{
   display: flex;
