@@ -7,7 +7,7 @@
   justify-self: center;
 }
 iframe{
-  width: 80%;
+  max-width: 80%;
   height: auto;
   align-self: center;
   justify-self: center;
